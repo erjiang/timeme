@@ -1,0 +1,16 @@
+TimeMe.exe
+
+This is a very simple timer written in VB.NET that counts up.  It has a
+resolution of 1 second and is meant to let you keep track of roughly how long
+something takes (like a coding project or something else).
+
+The buttons are, from left to right:
+
+    * play/pause: controls whether the timer is running or not
+    * always on top: controls whether the window is above all other windows
+    * exit: quits the program
+
+All of the buttons also have tooltips.
+
+By default, it minimizes to the system tray when you close the window.  Use the
+red clock button to exit the program.
